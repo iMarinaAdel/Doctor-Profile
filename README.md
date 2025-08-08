@@ -1,25 +1,41 @@
-# Doctor Profile App
+# 🩺 Doctor Profile App
 
-A clean and simple Flutter application to showcase doctor profiles with professional UI/UX.
+A clean and simple Flutter application that showcases a doctor's profile in an elegant UI.  
+The app is designed using basic Flutter widgets and focuses on static profile display.
 
-## 🚀 Features
+## 📷 Screenshot
 
-- Clean and minimal UI
-- Doctor profile card with name, specialty, and description
-- Fully responsive design
-- Built using Flutter
+<img src="screenshots/screenshot1.png" width="300"/>
 
-## 📸 Screenshot
+## ✨ Features
 
-![App Screenshot](screenshots/screenshot1.png)
+- Doctor profile picture and details
+- Contact information
+- Hospital name, working hours, and location
+- Action buttons like **Chat with Doctor** and **Book Appointment**
 
-## 🛠️ Built With
+## 🛠️ Used in the Project
 
-- Flutter
-- Dart
+- **Flutter & Dart**
+- **Widgets**:  
+  - `AppBar`, `Scaffold`, `Column`, `Row`, `Container`  
+  - `Padding`, `Expanded`, `Image.asset`, `Text`, `Icon`, `Divider`, `Align`, `ClipOval`  
+- **Layouts & Styling**: Basic use of `BoxDecoration`, `EdgeInsets`, colors, fonts
+- **Assets**:
+  - Doctor image loaded using `Image.asset`
+- **pubspec.yaml**:
+  - Used to include local images inside `assets/images/`
 
-## 📂 How to Run
+## 🚀 How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/iMarinaAdel/Doctor-Profile.git
+   git clone https://github.com/iMarinaAdel/Doctor_Profile_App.git
+   cd Doctor_Profile_App
+
+
+
+
+
+
+
